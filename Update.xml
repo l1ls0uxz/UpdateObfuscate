@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>2.0.0.0</version>
-  <url>[LINK_DẪN_TỚI_FILE_UPDATE]</url>
+  <url>https://github.com/lils0uxz/UpdateObfuscate/releases/download/v2.0.0.0/Debug.zip</url>
   <changelog>https://github.com/lils0uxz/UpdateObfuscate/releases</changelog>
   <mandatory mode="1">true</mandatory>
 </item>
