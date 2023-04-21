@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>2.0.0.0</version>
+  <url>[LINK_DẪN_TỚI_FILE_UPDATE]</url>
+  <changelog>[LINK_DẪN_TỚI_TRANG_THAY_ĐỔI_CỦA_PHIÊN_BẢN]</changelog>
+  <mandatory mode="1">true</mandatory>
+</item>
