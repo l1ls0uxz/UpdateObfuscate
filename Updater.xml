@@ -3,5 +3,5 @@
   <version>2.0.0.7</version>
   <url>https://github.com/lils0uxz/UpdateObfuscate/releases/download/v2.0.0.7/Debug.zip</url>
   <changelog>https://github.com/lils0uxz/UpdateObfuscate/releases</changelog>
-  <mandatory mode="1">true</mandatory>
+  <mandatory mode="2">true</mandatory>
 </item>
